@@ -1,4 +1,5 @@
-function mySort(arr) {
+function mySort(array) {
+  let arr = array.slice() // copy value
   arr.forEach(() => {
     arr.forEach(() => {
       arr.forEach((item, index) => {
