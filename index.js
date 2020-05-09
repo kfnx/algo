@@ -1,0 +1,1 @@
+console.log("Hi! Wellcome to documentation of my algorithm learing")

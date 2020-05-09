@@ -1,0 +1,11 @@
+{
+  "selection_sort": { "name": "Selection Sort", "status": "not done" },
+  "bubble_sort": { "name": "Bubble Sort", "status": "not done" },
+  "insertion_sort": { "name": "Insertion Sort", "status": "not done" },
+  "merge_sort": { "name": "Merge Sort", "status": "not done" },
+  "quick_sort": { "name": "Quick Sort", "status": "not done" },
+  "heap_sort": { "name": "Heap Sort", "status": "not done" },
+  "counting_sort": { "name": "Counting Sort", "status": "not done" },
+  "radix_sort": { "name": "Radix Sort", "status": "not done" },
+  "bucket_sort": { "name": "Bucket Sort", "status": "not done" }
+}
