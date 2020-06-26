@@ -1,0 +1,15 @@
+{
+  "name": "airplane_seating_algo",
+  "version": "1.0.0",
+  "description": "airplane seating",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .",
+    "test": "jest . --watchAll"
+  },
+  "author": "Fidel",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
